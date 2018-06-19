@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Sinais Vitais</string>
+    <string name="app_name1">Sinais Vitais do Paciente</string>
+    
+    <string name="pressao_arterial">Pressão Arterial :</string>
+    <string name="batimentos_cardiacos">Batimentos Cardíacos :</string>
+    <string name="temperatura_do_corpo">Temperatura do Corpo :</string>
+    <string name="nome_paciente">Nome do Paciente :</string>
+    <string name="numero_do_leito">Número do Leito :</string>
+
+    <string name="botao_enviar">Enviar Dados do Paciente</string>
+    <string name="botao_voltar">Voltar</string>
+</resources>
